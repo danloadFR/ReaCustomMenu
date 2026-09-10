@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ReaCustomMenu.vcxproj" Id="6d7238db-95cc-4f48-b457-5e55ee058746" />
+</Solution>
