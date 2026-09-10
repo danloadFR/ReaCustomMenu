@@ -34,6 +34,10 @@ The supplied XML file is intentionally minimal:
 
 The user can then add their own menus and commands.
 
+## Download
+
+The latest version is available on the [Releases](../../releases) page.
+
 ## Documentation
 
 See the included user manuals for detailed installation and configuration instructions:
